@@ -1,7 +1,7 @@
 {
   "name": "ember-squirejs",
   "version": "0.1.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "Adds support for Squire to assist in testing your Ember CLI app.",
   "directories": {
     "doc": "doc",
     "test": "tests"
