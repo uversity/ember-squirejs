@@ -1,6 +1,6 @@
 {
   "name": "ember-squirejs",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "The default blueprint for ember-cli addons.",
   "directories": {
     "doc": "doc",
@@ -11,11 +11,11 @@
     "build": "ember build",
     "test": "ember test"
   },
-  "repository": "",
+  "repository": "https://github.com/unceus/ember-squirejs",
   "engines": {
     "node": ">= 0.10.0"
   },
-  "author": "",
+  "author": "unceus",
   "license": "MIT",
   "devDependencies": {
     "broccoli-asset-rev": "^2.0.2",
@@ -32,7 +32,8 @@
     "ember-export-application-global": "^1.0.2"
   },
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "squire"
   ],
   "dependencies": {
     "ember-cli-babel": "^4.0.0"
